@@ -1,7 +1,7 @@
 《 iOS 开发进阶》随书示例程序和勘误
 =======
 
-[[ https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/BookCover.png | height = 500px ]]
+![图书封面](https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/BookCover.jpg)
 
 ## 随书示例程序说明
 

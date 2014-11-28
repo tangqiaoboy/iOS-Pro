@@ -1,9 +1,7 @@
 《 iOS 开发进阶》随书示例程序和勘误
 =======
 
-##图书购买链接
-
-TODO:
+[[ https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/BookCover.png | height = 500px ]]
 
 ## 随书示例程序说明
 
@@ -19,5 +17,9 @@ TODO:
 
 ## 勘误
 
+
+##图书购买链接
+
+TODO:
 
 

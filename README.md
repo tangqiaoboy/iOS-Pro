@@ -5,6 +5,11 @@
 ![图书封面](https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/BookCover.jpg)
 -->
 
+##图书购买链接
+
+ * [京东购书地址](http://item.jd.com/11598468.html)
+ * [亚马逊购书地址](http://www.amazon.cn/iOS%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6-%E5%94%90%E5%B7%A7/dp/B00R43XG9S/ref=sr_1_2?ie=UTF8&qid=1418997212&sr=8-2&keywords=ios%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6)
+
 ## 随书示例程序说明
 
 文件路径 | 文件说明 | 下载链接
@@ -22,8 +27,6 @@
 
 TODO:
 
-##图书购买链接
 
-TODO:
 
 

@@ -5,6 +5,11 @@
 ![图书封面](https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/BookCover.jpg)
 -->
 
+##重要信息
+
+ * [主要内容目录](https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/TableOfContents.md)
+ * [相关评语](https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/Recommendation.md)
+
 ##图书购买链接
 
  * [京东购书地址](http://item.jd.com/11598468.html)

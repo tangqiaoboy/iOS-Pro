@@ -7,8 +7,8 @@
 
 ##重要信息
 
- * [主要内容目录](https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/TableOfContents.md)
- * [相关评语](https://raw.githubusercontent.com/tangqiaoboy/iOS-Pro/master/Recommendation.md)
+ * [主要内容目录](https://github.com/tangqiaoboy/iOS-Pro/blob/master/TableOfContents.md)
+ * [相关评语](https://github.com/tangqiaoboy/iOS-Pro/blob/master/Recommendation.md)
 
 ##图书购买链接
 

@@ -32,6 +32,7 @@
 ## 勘误
 
  * 第3页，`我使用的是Newsfy`一句中单词拼写错误，应该是 `Newsify`。
+ * 第10页，`occhina`拼写错误，应该是`oschina`。
  * 第108页，UIWindow章节中的示例代码中使用了`resignKeyWindow`方法，但是苹果不推荐直接调用该方法，推荐的改法是，隐藏的时候将window.hiden=YES,然后设置为nil，再把原来的window makeKeyWindow。
 
 

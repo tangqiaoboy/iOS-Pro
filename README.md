@@ -34,7 +34,7 @@
  * 第3页，`我使用的是Newsfy`一句中单词拼写错误，应该是 `Newsify`。
  * 第10页，`occhina`拼写错误，应该是`oschina`。
  * 第108页，UIWindow章节中的示例代码中使用了`resignKeyWindow`方法，但是苹果不推荐直接调用该方法，推荐的改法是，隐藏的时候将window.hiden=YES，然后设置为nil，再把原来的window makeKeyWindow。
- * 第135页，第一行末尾，"一嗨租车虽然已经修改了登录协议"一句。应该将`一嗨租车`改成`神州租车`。
+ * 第136页，第一行末尾，"一嗨租车虽然已经修改了登录协议"一句。应该将`一嗨租车`改成`神州租车`。
  * 第202页，生成ipa除了可以使用书中介绍的方法外，更好的方法是用 `xcodebuild` 自己的 `-exportArchive -exportFormat ipa` 命令。
 
 ## 本书对应的“iOS开发”微信公共帐号

@@ -15,7 +15,6 @@
  * [京东购书地址](http://item.jd.com/11598468.html)
  * [亚马逊购书地址](http://www.amazon.cn/iOS%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6-%E5%94%90%E5%B7%A7/dp/B00R43XG9S/ref=sr_1_2?ie=UTF8&qid=1418997212&sr=8-2&keywords=ios%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6)
  * [china-pub购买地址](http://product.china-pub.com/3770871)
- * [签名版图书（限量99本）](http://product.china-pub.com/3999453)
 
 ## 随书示例程序说明
 

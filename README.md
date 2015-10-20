@@ -35,6 +35,7 @@
  * 第10页，`occhina`拼写错误，应该是`oschina`。
  * 第34页，第一张图片的配图应该是第35页的首张图。
  * 第34页，用reveal连接真机调试章节，由于苹果的编译器升级，加载reveal的步骤更多了，详细的见：<http://support.revealapp.com/kb/getting-started/integrating-reveal-add-reveal-to-your-xcode-project>
+ * 第81页，倒数第二行(C++11 提供了基于引用计数的智能指针 share_prt).这里面应该将 share_prt 改为 share_ptr
  * 第108页，UIWindow章节中的示例代码中使用了`resignKeyWindow`方法，但是苹果不推荐直接调用该方法，推荐的改法是，隐藏的时候将`window.hiden=YES`，然后设置为nil，再调用原来的window的` makeKeyWindow`方法。
  * 第108页，苹果的进入后台的回调函数在新的iOS8中无法显示自定义的`UIWindow`，可以改成在`applicationDidBecomeActive`中调用`UIWindow`的显示
  * 第136页，第一行末尾，"一嗨租车虽然已经修改了登录协议"一句。应该将`一嗨租车`改成`神州租车`。
